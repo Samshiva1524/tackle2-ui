@@ -13,7 +13,7 @@ import { EffortEstimate, ProposedAction, Risk } from "@app/api/models";
 import { ENV } from "./env";
 
 export enum BrandType {
-  Konveyor = "konveyor",
+  samshiva1524 = "samshiva1524",
   MTA = "mta",
 }
 
